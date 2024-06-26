@@ -1,4 +1,4 @@
-package Jongol.loopControlStatement;
+package Jongol.loopControlStatement.loop3;
 
 import java.util.Scanner;
 

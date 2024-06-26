@@ -1,4 +1,4 @@
-package Jongol.loopControlStatement;
+package Jongol.loopControlStatement.loop3;
 
 import java.util.Scanner;
 
@@ -12,14 +12,12 @@ public class Loop3_Assessment2 {
 
     while (true){
       if (num%input == 0){
-
-        System.out.print(num);
-
+        System.out.print(num+" ");
         if (num%10==0)break;
-        System.out.print(" ");
       }
       num++;
-    }
+      if(num >100)break;
+    }//while end
   }
 
 }
