@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2596b203-472a-4d9b-b9a7-4e5b2d5b66bf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jongol/loopControlStatement/loop3/Loop3_Assessment1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jongol/loopControlStatement/loop3/Self_diagnosis7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Jongol/loopControlStatement/Loop3_Assessment10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Jongol/loopControlStatement/loop3/Loop3_Assessment10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Jongol/loopControlStatement/Loop3_Assessment2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Jongol/loopControlStatement/loop3/Loop3_Assessment2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Jongol/loopControlStatement/Loop3_Assessment3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Jongol/loopControlStatement/loop3/Loop3_Assessment3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Jongol/loopControlStatement/Loop3_Assessment4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Jongol/loopControlStatement/loop3/Loop3_Assessment4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Jongol/loopControlStatement/Loop3_Assessment5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Jongol/loopControlStatement/loop3/Loop3_Assessment5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Jongol/loopControlStatement/Loop3_Assessment6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Jongol/loopControlStatement/loop3/Loop3_Assessment6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Jongol/loopControlStatement/Loop3_Assessment7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Jongol/loopControlStatement/loop3/Loop3_Assessment7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Jongol/loopControlStatement/Loop3_Assessment8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Jongol/loopControlStatement/loop3/Loop3_Assessment8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Jongol/loopControlStatement/Loop3_Assessment9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Jongol/loopControlStatement/loop3/Loop3_Assessment9.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "shin-heewon"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/shin-heewon/java-basic.git",
+    "accountId": "4a97cb52-14e7-4a2a-b80c-f125f5ac5a79"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2iQ95zY859obLdjf89cysDzr0ee" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Loop3_Assessment1.executor": "Run",
+    "Application.Loop3_Assessment2.executor": "Run",
+    "Application.Self_diagnosis7.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17890.1" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17890.1" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2596b203-472a-4d9b-b9a7-4e5b2d5b66bf" name="Changes" comment="" />
+      <created>1719411755678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719411755678</updated>
+      <workItem from="1719411756817" duration="1914000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
