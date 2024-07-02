@@ -4,9 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2596b203-472a-4d9b-b9a7-4e5b2d5b66bf" name="Changes" comment="">
+    <list default="true" id="2596b203-472a-4d9b-b9a7-4e5b2d5b66bf" name="Changes" comment="정올 배열2 형성평가 9 완료">
+      <change afterPath="$PROJECT_DIR$/src/Jongol/array2/Assessment1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jongol/array2/Assessment2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jongol/array2/Assessment3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jongol/array2/Assessment4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jongol/array2/Assessment5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jongol/array2/Assessment6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jongol/array2/Assessment7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jongol/array2/Assessment8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Jongol/array2/Assessment9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Jongol/array2/Assessment9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +53,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Assessment1.executor": "Run",
+    "Application.Assessment2.executor": "Run",
+    "Application.Assessment3.executor": "Run",
+    "Application.Assessment4.executor": "Run",
+    "Application.Assessment5.executor": "Run",
+    "Application.Assessment6.executor": "Run",
+    "Application.Assessment7.executor": "Run",
+    "Application.Assessment8.executor": "Run",
     "Application.Assessment9.executor": "Run",
     "Application.Loop3_Assessment1.executor": "Run",
     "Application.Loop3_Assessment2.executor": "Run",
@@ -79,11 +94,24 @@
       <option name="presentableId" value="Default" />
       <updated>1719411755678</updated>
       <workItem from="1719411756817" duration="1914000" />
-      <workItem from="1719924426589" duration="3689000" />
+      <workItem from="1719924426589" duration="17918000" />
     </task>
+    <task id="LOCAL-00001" summary="정올 배열2 형성평가 9 완료">
+      <option name="closed" value="true" />
+      <created>1719928509841</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719928509841</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="정올 배열2 형성평가 9 완료" />
+    <option name="LAST_COMMIT_MESSAGE" value="정올 배열2 형성평가 9 완료" />
   </component>
 </project>
