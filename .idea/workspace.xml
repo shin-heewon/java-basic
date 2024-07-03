@@ -4,9 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2596b203-472a-4d9b-b9a7-4e5b2d5b66bf" name="Changes" comment="배열2 형성평가 10번">
+    <list default="true" id="2596b203-472a-4d9b-b9a7-4e5b2d5b66bf" name="Changes" comment="정올 배열2 형성평가 1-10 완료">
+      <change afterPath="$PROJECT_DIR$/src/Jongol/array1/Assessment10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jongol/array1/Assessment2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jongol/array1/Assessment3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jongol/array1/Assessment4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jongol/array1/Assessment5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jongol/array1/Assessment6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jongol/array1/Assessment7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jongol/array1/Assessment8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jongol/array1/Assessment9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Jongol/array2/Assessment9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Jongol/array2/Assessment9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +40,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/shin-heewon/java-basic.git&quot;,
-    &quot;accountId&quot;: &quot;e140b1a1-6168-4ce1-98e2-29e33a683ebd&quot;
+    &quot;accountId&quot;: &quot;4a97cb52-14e7-4a2a-b80c-f125f5ac5a79&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -46,14 +54,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Assessment1.executor": "Run",
     "Application.Assessment10.executor": "Run",
+    "Application.Assessment2.executor": "Run",
+    "Application.Assessment3.executor": "Run",
+    "Application.Assessment4.executor": "Run",
+    "Application.Assessment5.executor": "Run",
+    "Application.Assessment6.executor": "Run",
+    "Application.Assessment7.executor": "Run",
+    "Application.Assessment8.executor": "Run",
+    "Application.Assessment9.executor": "Run",
     "Application.Loop3_Assessment1.executor": "Run",
     "Application.Loop3_Assessment2.executor": "Run",
-    "Application.Self_diagnosis1.executor": "Run",
-    "Application.Self_diagnosis2.executor": "Run",
-    "Application.Self_diagnosis3.executor": "Run",
-    "Application.Self_diagnosis4.executor": "Run",
-    "Application.Self_diagnosis5.executor": "Run",
     "Application.Self_diagnosis7.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -64,10 +76,17 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17890.1" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17890.1" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -77,22 +96,23 @@
       <option name="presentableId" value="Default" />
       <updated>1719411755678</updated>
       <workItem from="1719411756817" duration="1914000" />
+      <workItem from="1719924426589" duration="26334000" />
     </task>
-    <task id="LOCAL-00001" summary="반복문2 10번까지">
+    <task id="LOCAL-00001" summary="정올 배열2 형성평가 9 완료">
       <option name="closed" value="true" />
-      <created>1719572125978</created>
+      <created>1719928509841</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1719572125978</updated>
+      <updated>1719928509841</updated>
     </task>
-    <task id="LOCAL-00002" summary="배열2 형성평가 10번">
+    <task id="LOCAL-00002" summary="정올 배열2 형성평가 1-10 완료">
       <option name="closed" value="true" />
-      <created>1719829592330</created>
+      <created>1719942744618</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1719829592330</updated>
+      <updated>1719942744618</updated>
     </task>
     <option name="localTasksCounter" value="3" />
     <servers />
@@ -100,21 +120,9 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="모닝테스트 20번 Bank Application  완료" />
-    <MESSAGE value="반복문2 10번까지" />
-    <MESSAGE value="배열2 형성평가 10번" />
-    <option name="LAST_COMMIT_MESSAGE" value="배열2 형성평가 10번" />
+    <MESSAGE value="정올 배열2 형성평가 9 완료" />
+    <MESSAGE value="정올 배열2 형성평가 1-10 완료" />
+    <option name="LAST_COMMIT_MESSAGE" value="정올 배열2 형성평가 1-10 완료" />
   </component>
 </project>
