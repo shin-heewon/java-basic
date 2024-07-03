@@ -8,17 +8,23 @@ public class Assessment10 {
     Scanner sc = new Scanner(System.in);
     int a = sc.nextInt();
     int b = sc.nextInt();
-
-    for (int i=1; i<10;i++){
-      for (int j=a; j>=b; j--){
-        System.out.print(j+" * "+i+" = ");
-        if (j * i < 10) {
-          System.out.print(" ");
+    if (a<b){
+      for (int i=1; i<10;i++){
+        for (int j=a; j<=b; j++){
+          System.out.print(j+" * "+i+" = "+((j*i)<10?" "+(j*i) : (j*i))+"   ");
         }
-        System.out.print(j*i+"   ");
+        System.out.println();
       }
-      System.out.println();
+    }else {
+
+      for (int i=1; i<10;i++){
+        for (int j=a; j>=b; j--){
+          System.out.print(j+" * "+i+" = "+((j*i)<10?" "+(j*i) : (j*i))+"   ");
+        }
+        System.out.println();
+      }
     }
+
   }
 
 }
